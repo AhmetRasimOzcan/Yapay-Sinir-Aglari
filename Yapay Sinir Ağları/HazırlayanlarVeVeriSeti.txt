@@ -1,0 +1,6 @@
+Hazırlayanlar
+Ahmet Rasim Ozcan 21040301060
+Fatih Parkın      21040301036
+
+Veri Seti
+Kaggledan hazır olarak alınmıştır.Veri setinde hatalı sütunlar temizlenip düzenlenip dosya içine veriseti eklenmiştir.
